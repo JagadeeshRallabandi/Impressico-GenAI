@@ -1,0 +1,25 @@
+2.33 NUTRIENT DENSITY vs CALORIC  DENSITY 
+The food value of any food can be either measured as caloric density or nutrient density. 
+CALORIC DENSITY:
+Caloric density means total number of calories provided per pound (or some other unit of weight). Here are some examples (averages) of various common foods in calories/ pound: 
+* Green leafy veggies..........100
+* Fruits.................................300
+* Rice,Potatoes,Roti,Pasta.500 
+* Daal, Beans, Rajama.. ......500
+* Fish, Lean meats...............800
+* Baked Bread...................1,300
+* Dried Fruits.....................1,300
+* Dry Brkfast Cereals........1,400
+* Chicken Fried (KFC).......1,500
+* Nuts & Seeds..................2,500
+* Chocolate Bars...............2,500
+* Butter...............................3,200
+* Oil/Ghee, Lard.................4,000
+Knowing the caloric density of foods is the simplest and most accurate way to determine whether a particular food or combination of foods will fatten you up or help you lose weight. An average person requires about 2,000 calories a day. 
+However the problem with counting calories is that It does not guarantee satiety, or fullness.  Portion control can only work for a week or a month but one can’t continue with it for the rest of their life. As a result most people who loose weight gain it back. Our stomach is of the size of a fist and when we eat, it stretches and the stretch receptors embedded in it send a signal of fullness. We stop eating when our brain gets this signal of fullness. 
+NUTRIENT DENSITY:
+Nutrient density means total nutrients provided per serving (or unit of weight). Serving size is determined by common practices prevalent in a society. So serving size for some food items may be as little as one teaspoon (4-5 grams) or as much as one cup (150-250 grams). Unfortunately there is no single measurement of nutrients so one would have to list all nutrients per serving and that is what USDA requires all food manufacturers to list on their products. 
+Also as there are no standards for serving size, processed food manufacturers can get away with anything. Manufacturers of certain nonstick spays can get away with listing calories per serving as zero because the actual calories are less than half, so rounding it becomes zero. The spray duration recommended is 1/4th of a second. So if the sprayer sprays at the rate of 1 gram oil every 5 seconds, it amounts to 1 gram oil (9 calories) every 20 servings or 0.45 calories per serving. Now  the people who buy that product think it is zero calorie per serving so it doesn’t matter how much you use it, so they drench the pan with oil. 
+Coming back to our discussion about nutrient density, wouldn’t it be nice if there was a single criteria to compare various food items on a nutritional scale. One of the proponents of the plant based whole food movement, 
+Dr Fuhrman has developed such a composite index of all nutrients called Aggregate Nutrient Density Index (ANDI) and has scored several hundred food items on this scale. This scale scores nutritional values of foods as units per calorie provided by that food. Which makes more sense. The scale goes from 1 to 1,000. It is a very interesting way to look at foods and provides unique insight into various foods. Food that scores 1 is Coke and foods that score 1,000 are Kale and Mustard Green.
+https://www.drfuhrman.com/.../andi-food-scores-rating-the...

@@ -1,0 +1,32 @@
+temperature demo
+write a story involving a robot, space, and aliens (in 200 words or less)
+
+TopP
+write a 5 line poem about a teacher, a politician, and a police officer
+
+Frequency Penalty
+Presence Penalty
+describe hematoma in about 200 words
+
+zero shot (meaning zero examples)
+Extract the sentiment from the following review: ‘The room was spacious, but the service was terrible.’
+
+one-shot (one example)
+for the keyword "memes" generate an article in 200 words or less in this format: title: introduction: body: summary: 
+
+few-shot (many examples)
+for the topic "rice farming" give me a list of strategies in this format
+1. land management
+2. target market
+3. mechanisation
+and continue the list without explanation
+
+role-playing
+I need to explain my job of being an AI engineer to a 3-year old in the way a funny guy would
+
+positive-negative prompting
+suggest 5 ways in which I can celebrate diwali
+
+X had 5 cricket bats.  Y gave X 10 bags, each bag contains 6 cricket bats each.  but X lost 1 bat.  how many bats does X have?  
+
+

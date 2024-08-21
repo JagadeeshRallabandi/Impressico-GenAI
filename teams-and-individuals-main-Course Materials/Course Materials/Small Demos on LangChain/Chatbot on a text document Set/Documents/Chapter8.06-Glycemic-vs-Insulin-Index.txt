@@ -1,0 +1,30 @@
+8.6 GLYCEMIC vs INSULIN INDEX
+Many patients who have diabetes are often advised by their doctors or dietitians to  eat foods with low Glycemic Index (GI). This is somewhat misleading and this shows their preoccupation with trying to control the symptoms of diabetes rather than cause. In this post I have attempted to clarify this issue. 
+Glycemic Index was developed some three decades ago  by University of Toronto as a tool to study glycemic response of foods for research purposes. GI of a food depends primarily on quantity and type of carbohydrate it contains but it also depends upon other factors such as; 
+-how the carbohydrate is entrapped in the food, 
+-how the food is cooked, 
+-the fat and protein content of the food, 
+-the amount of organic acids in the food and 
+-the impact of other foods consumed along with the food in question
+Glycemic Index is based on a serving size containing 50 grams of free Carbohydrate (free from insoluble fiber). Many foods have low carb density and so require larger quantity (to represent 50 grams of carbs) and vice versa. This is why we have anomalies like carrots having a GI of 91 and M&M peanut candies being classified as low GI food. 
+Glycemic Index does not truly predict an individual’s glycemic response to a particular food. Besides the  Individual responses also vary greatly from individual to individual. (See the Ted Talk by Dr. Eran Segal)
+Glycemic Load (GL) is a better indicator as it takes into account the carbohydrate content of the actual serving. 
+GL = GI% x grams of carb
+Consuming food with similar GL can also have a different insulin response in different people. 
+To cure diabetes what is most important is to watch the insulin load response which is better represented by Insulin Index. Insulin Index takes into account the impact of protein and fat also. Another problem with GI and GL indicators is that they do not appropriately reflect the rise and fall of sugar level over time factor. What is of concern to diabetics is the total area under the glucose response curve which may not be correctly reflected by these two indicators. This is also the problem with taking PP glucose readings and that is why I recommend Continuous Glucose Meters. 
+The insulin index compares foods in amounts with equal overall caloric content (say 1000 kcal). Insulin indexes are scaled relative to white bread, while glycemic index scores nowadays are usually scaled with respect to pure glucose.
+My recommendations to all is that rather than worrying about such issues, if you eat PBWF and do intermittent fasting, you need not worry about the various food choices. Eat as much as your body desires and whatever your body likes within the strict framework of PBWF. You can’t go wrong.
+Glycemic vs Insulin Index?
+As discussed above use of glycemic Index to choose diet for diabetics can lead to faulty conclusions such as avoiding healthy foods like carrots (91) and consuming beef (21), fish(28), yogurt (62). Here are some more examples showing their GI vs. Insulin Index:
+Food                 G.I.        I.I.
+Beef                  21  vs.  51
+Fish                   28 vs.  59
+Yogurt              62 vs. 115
+Ice-cream       70 vs.  89
+Porridge          60 vs.  40
+Brown Pasta  68 vs.  40
+Brown Rice   104 vs.  60
+Mars Bars       79 vs. 122
+Doughnuts     63 vs.   74
+Cake                 56 vs.  82
+Cookies           74 vs.   92

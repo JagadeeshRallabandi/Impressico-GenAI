@@ -1,0 +1,16 @@
+6.9 NNT, NNH & ADR OF DRUGS
+I want to explain to you how various drugs are evaluated in terms of their performance. The two criteria most important in any drug evaluation are its ADR and NNT.
+ADR stands for Adverse Drug Reaction and it describes unintended pharmacological effects when the drug is administered correctly. It is different from side effects of a drug which are secondary unwanted effects. It is important to understand that this is when the drug given and  the dose given were correct and there was no other drug interaction. Those other situations like prescription error or drug overdose  or multiple drug interactions are called adverse drug events (ADE).
+NNT stands for Numbers Needed to Treat. When a drug reduces the mortality rate from a higher number to a lower number, (that is to say from a control group to an experimental group) the NNT denotes the number of patients one (doctor or researcher) would have to treat to save one life. For example if a cancer drug reduces mortality rate from 30% to 25% than its NNT  is equal to 1 divided by the reduction in mortality rate which in this example would be .05 (.30-.25). This NNT number therefore is 20. Please watch the tutorial video below to better understand the concept of NNT and also understand how drug companies legally misrepresent the benefits of the drugs (hiding under statistical jargon).
+In the example I gave above of a hypothetical drug, the NNT was 20. You will be surprised to know how high NNTs are for some of the popular drugs. Here is one example:
+NNT or Statin drugs:
+According to The NNT Group, statin drugs given for five years, in order to prevent heart disease in people who have no history of heart disease, is 104. That means that 104 people will have to take statins in order to prevent one extra person from having a heart attack.
+You will be alarmed to know that when all these causes of death are added (ADRs, ADEs, all other medical surgeries and procedures including diagnostics), the medical care becomes the leading cause of death in America, more than heart attacks or cancers.
+You can check NNT for various drugs and treatments on this site. 
+https://www.thennt.com/home-nnt/
+NCCMT- URE - What’s the risk?
+https://youtu.be/QPXXTE8N4PY
+Adverse Drug Reaction(ADR) vs Adverse Event (AE)
+https://youtu.be/z7C6Uc1G5kE
+Side Effects vs Adverse Effects
+https://youtu.be/lfDOseggwVA

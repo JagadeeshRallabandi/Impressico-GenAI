@@ -1,0 +1,13 @@
+{
+    "input_variables": [
+        "context",
+        "chat_history",
+        "question"
+    ],
+    "output_parser": null,
+    "partial_variables": {},
+    "template": "Use the following pieces of context to answer the question at the end. If you don't know the answer, just say that you don't know, don't try to make up an answer.\nThis should be in the following format:\n\nQuestion: [question here]\nAnswer: [answer here in Answer format]\n\nAnswer format:\n- The answer should be informative and within the given context.\n- The answer length should be around 600 words but the answer should not be overfitted.\n- If the answer conatins categories or points, present the answer in bullet point list.\n- Break the answer in multiple paragraphs instead of a single long paragraph.\n\n\nExample \n\nContext:\n---------\nYou are planning a trip to Japan and would like some information about popular tourist destinations in Tokyo.\n---------\nQuestion: What are some popular tourist destinations in Tokyo?\nHelpful Answer: \nThere are different tourist places where you can enjoy your trip.\n1. Tokyo Tower: A famous landmark with observation decks offering panoramic views of the city.\n2.Meiji Shrine: A serene Shinto shrine surrounded by a beautiful forest in the heart of the city.\n3.Shibuya Crossing: The world's busiest pedestrian crossing known for its vibrant energy and neon lights.\n4.Shinjuku Gyoen National Garden: A spacious park with stunning gardens, perfect for cherry blossom viewing.\n5.Tsukiji Fish Market: One of the largest fish markets in the world, offering a unique seafood experience.\n6.Tokyo Disneyland/DisneySea: Fun-filled theme parks with exciting attractions and entertainment for all ages.\n\n\nContext: {context}\n{chat_history}\nHuman: {question}\nHelpful Answer:",
+    "template_format": "f-string",
+    "validate_template": true,
+    "_type": "prompt"
+}
